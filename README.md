@@ -1,6 +1,6 @@
 ## Conhecendo o Git 
 Estou alterando novamente, agora como pasta_dois
-fix outra alteração nova
+fix outra alteração nova, agora como pasta_um
 ##### Instalação
 
 → Site oficial: https://git-scm.com/
